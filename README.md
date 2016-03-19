@@ -6,3 +6,7 @@ Install node, npm
 npm install
 
 npm start
+
+
+Background hex: 1d384d
+Font hex: ffec82
