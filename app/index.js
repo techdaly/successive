@@ -9,7 +9,7 @@ function main () {
 
   console.log('whee!')
 
-let exitem = document.getElementById('example')
+let exitem = document.getElementById('existing-successives')
   ReactDOM.render(<TestComponent testVal="look, test values!" />, exitem)
 
 /*  ReactDOM.render(<SearchBar 
